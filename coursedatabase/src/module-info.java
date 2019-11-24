@@ -1,2 +1,3 @@
 module coursedatabase {
+    exports coursedatabase;
 }

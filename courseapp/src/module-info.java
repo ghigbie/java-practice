@@ -1,2 +1,3 @@
 module courseapp {
+    requires coursedatabase;
 }
