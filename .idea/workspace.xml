@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91be5c7a-4ef9-4b97-a0eb-10803e591347" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseapp/courseapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseapp/src/courseapp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coursedatabase/coursedatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coursedatabase/src/coursedatabase/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursedatabase/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursedatabase/src/coursedatabase/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/coursedatabase/src/coursedatabase/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -45,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="courseapp.Main" />
+      <module name="courseapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="courseapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="java-practice" />
@@ -56,8 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -72,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574555159655</updated>
-      <workItem from="1574555163686" duration="2025000" />
+      <workItem from="1574555163686" duration="2272000" />
     </task>
     <servers />
   </component>
