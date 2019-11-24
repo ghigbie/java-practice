@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="91be5c7a-4ef9-4b97-a0eb-10803e591347" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courseapp/courseapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/courseapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseapp/src/courseapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/src/courseapp/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/courseapp/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/courseapp/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursedatabase/src/coursedatabase/CourseServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/coursedatabase/src/coursedatabase/CourseServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursedatabase/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/coursedatabase/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/courseapp/courseapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/courseapp/courseapp/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/courseapp/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/courseapp/module-info.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574555159655</updated>
-      <workItem from="1574555163686" duration="3846000" />
+      <workItem from="1574555163686" duration="5106000" />
     </task>
     <servers />
   </component>
